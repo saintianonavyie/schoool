@@ -1,0 +1,41 @@
+body {
+    font-family: 'Raleway';
+    background-color: #eee;
+    font-size: 18px;
+}
+
+
+
+/* navbar */
+.slidebar {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)) url(images/backgground/bg2);
+}
+/* end of navbar */
+
+tr {
+    text-align: center;
+}
+
+td {
+    font-size: 90%;
+    text-align: center;
+}
+
+tr .capital,
+.form-group .capital {
+    text-transform: capitalize;
+    font-size: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
